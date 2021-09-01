@@ -1,0 +1,15 @@
+.check{
+border: red 2px solid;
+}
+
+.the-logo{
+    @media screen and (min-width: 600px) {
+        width: 50%;
+    }
+    @media screen and (max-width: 900px) and (min-width: 600px) {
+
+    }
+}
+*{
+    //border: red 2px solid;
+}
